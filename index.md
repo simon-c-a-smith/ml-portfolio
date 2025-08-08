@@ -1,19 +1,22 @@
 # 🧠 Welcome to My Machine Learning Portfolio
 
-Hi! I'm currently building this portfolio to showcase my projects and learning journey in machine learning and data science.
+## 🚧 Coming Soon: Machine Learning Projects with a Finance Focus
 
-## 🚧 Coming Soon
-Over the coming weeks, I plan to add:
-- 📊 Predictive models using real-world datasets
-- 🧠 Deep learning experiments with TensorFlow/Keras
-- 💬 Natural Language Processing (NLP) projects
-- 📈 Exploratory Data Analysis (EDA) work in Python
+As a Chartered FCSI designated person (CISI) learning machine learning, I’m excited to apply my finance expertise to real-world ML problems. Upcoming projects include:
 
-Stay tuned — first project coming soon!
+- 📈 **Stock Price Prediction Using Time Series Models**  
+  Leveraging LSTM and ARIMA models to forecast future stock prices based on historical data.
 
+- 🏦 **Credit Risk Modeling**  
+  Building classifiers to assess loan default risk using supervised learning techniques like Random Forest and Gradient Boosting.
+
+- 🤖 **Portfolio Optimization with Reinforcement Learning**  
+  Developing reinforcement learning agents to dynamically allocate capital across assets for optimal risk-return balance.
+
+Stay tuned for detailed project write-ups, code, and results!
 ---
 
 ## 📫 Contact Me
 
-- 📧 simon.smith@delaonederivatives.com  
+- 📧 simon.smith@deltaonederivatives.com  
 
