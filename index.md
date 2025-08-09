@@ -2,7 +2,7 @@
 
 ## 🚧 Coming Soon: Machine Learning Projects with a Finance Focus
 
-As a Chartered FCSI designated person (CISI) learning machine learning, I’m excited to apply my finance expertise to real-world ML problems. Upcoming projects include:
+As a Chartered FCSI designated person (CISI) advancing my Machine Learning skills, I’m excited to apply my financial expertise to real-world ML problems. Upcoming projects include:
 
 - 📈 **Stock Price Prediction Using Time Series Models**  
   Leveraging LSTM and ARIMA models to forecast future stock prices based on historical data.
